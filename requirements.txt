@@ -1,0 +1,2 @@
+django==2.2 # update this later
+djangorestframework==3.9.2 # update this later
